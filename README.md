@@ -3,8 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/homebridge-vpilot-notifications.svg)](https://www.npmjs.com/package/homebridge-vpilot-notifications)
 [![npm downloads](https://img.shields.io/npm/dt/homebridge-vpilot-notifications.svg)](https://www.npmjs.com/package/homebridge-vpilot-notifications)
 [![GitHub issues](https://img.shields.io/github/issues/montislignum/homebridge-vpilot-notifications.svg)](https://github.com/montislignum/homebridge-vpilot-notifications/issues)
-[![GitHub stars](https://img.shields.io/github/stars/montislignum/homebridge-vpilot-notifications.svg)](https://github.com/montislignum/homebridge-vpilot-notifications/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/montislignum/homebridge-vpilot-notifications.svg)](https://github.com/montislignum/homebridge-vpilot-notifications/stargazers)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Homebridge plugin that receives messages from [vPilot](https://vpilot.metacraft.com/) via TCP and triggers a HomeKit motion sensor.  
 This allows you to get HomeKit notifications when new messages arrive in vPilot (e.g., private messages or ATC calls).
@@ -117,4 +116,7 @@ MIT
 ## 🤝 Credits
 - Developed by Jonas  
 - Built to integrate vPilot with HomeKit via Homebridge
+
+=======
+A Homebridge plugin that integrates vPilot with HomeKit by triggering motion sensors via TCP messages.
 

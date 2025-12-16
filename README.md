@@ -114,7 +114,8 @@ MIT
 ---
 
 ## 🤝 Credits
-- Developed by Jonas  
+- Developed by Montislignum
+- Please support me if you like the plugin https://buymeacoffee.com/montislignum 
 - Built to integrate vPilot with HomeKit via Homebridge
 
 =======
